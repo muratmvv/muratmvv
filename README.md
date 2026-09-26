@@ -6,7 +6,7 @@ I am a Full-Stack Software Developer and AI/ML Engineer with a Bachelor's degree
 
 ### Tech Stack & Tools
 
-[![Skills](https://skillicons.dev/icons?i=py,js,ts,cpp,php,html,css,react,nextjs,vue,nodejs,express,flutter,tailwind,bootstrap,vite,jquery,graphql,prisma,supabase,postgres,mongodb,mysql,aws,docker,kubernetes,git,github,npm,powershell,postman,figma,jupyter,notion,stackoverflow,linux)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=py,js,ts,cpp,php,html,css,react,nextjs,vue,nodejs,express,flutter,tailwind,bootstrap,vite,jquery,graphql,prisma,supabase,postgres,mongodb,mysql,aws,docker,kubernetes,git,github,npm,powershell,postman,figma,notion,stackoverflow,linux)](https://skillicons.dev)
 
 ---
 
