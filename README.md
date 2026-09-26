@@ -1,6 +1,6 @@
 ###  I'm Sherzodbek Mamadaliev
 
-I am a Full-Stack Software Developer and AI Engineer with a Bachelor's degree in Computer Engineering from Hitit University[cite: 1]. I specialize in building end-to-end web and mobile applications, combining production-grade software engineering with applied machine learning and computer vision[cite: 1].
+I am a Full-Stack Software Developer and AI Engineer with a Bachelor's degree in Computer Engineering from Hitit University. I specialize in building end-to-end web and mobile applications, combining production-grade software engineering with applied machine learning and computer vision.
 
 ---
 
